@@ -1,0 +1,15 @@
+﻿[
+  {
+    "id" : "afbee524-5972-4075-8800-7d1f9d7b0a0c",
+    "status" : "Status.Live",
+    "ReservePrice" : 20000,
+    "Seller" : "bob",
+    "AuctionEnd" : "2023-12-04",
+    "Make" : "Ford",
+    "Model" : "GT",
+    "Color" : "White",
+    "Mileage": 50000,
+    "Year" : 2020,
+    "ImageUrl" : "https://cdn.pixabay.com/photo/2016/05/06/16/32/car-1376190_960_720.jpg"
+  }
+]
