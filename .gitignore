@@ -477,3 +477,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 /src/.idea
+/.idea/.idea.CarsCollection/.idea/.gitignore
+/.idea/.idea.CarsCollection/.idea/.name
+/.idea/.idea.CarsCollection/.idea/dataSources.xml
+/.idea/.idea.CarsCollection/.idea/encodings.xml
+/.idea/.idea.CarsCollection/.idea/indexLayout.xml
+/.idea/.idea.CarsCollection/.idea/vcs.xml
